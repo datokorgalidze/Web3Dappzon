@@ -1,5 +1,5 @@
 # Dappazon
-
+This project is a blockchain-based application that utilizes Solidity smart contracts and connects to MetaMask for user interactions. The project is configured using Hardhat and deployed on the Sepolia test network.
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
@@ -17,15 +17,11 @@
 ### 2. Install Dependencies:
 `$ npm install`
 
-### 3. Run tests
-`$ npx hardhat test`
 
-### 4. Start Hardhat node
-`$ npx hardhat node`
 
-### 5. Run deployment script
+### 3. Run deployment script
 In a separate terminal execute:
-`$ npx hardhat run ./scripts/deploy.js --network localhost`
+npx hardhat run scripts/deploy.js --network sepolia
 
 ### 6. Start frontend
 `$ npm run start`
