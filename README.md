@@ -1,7 +1,5 @@
 # Dappazon
 
-![thumb](./src/assets/dappzon.png)
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
@@ -33,7 +31,7 @@
 ### 5. Run deployment script
 
 In a separate terminal execute:
-`$ npx hardhat run ./scripts/deploy.js --network localhost`
+npx hardhat run scripts/deploy.js --network sepolia
 
 ### 6. Start frontend
 
