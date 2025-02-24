@@ -1,5 +1,8 @@
 # Dappazon
 
+![thumb](./src/assets/dappzon.png)
+This project is a blockchain-based application that utilizes Solidity smart contracts and connects to MetaMask for user interactions. The project is configured using Hardhat and deployed on the Sepolia test network.
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
